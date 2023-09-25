@@ -47,9 +47,9 @@ body {
 }
 
 .caption {
-    font-size: 16px;
+    font-size: 10px;
     position: absolute;
-    bottom: 10px; /* Положение подписи относительно нижней части .item */
+    bottom: 1px; /* Положение подписи относительно нижней части .item */
     left: 0; /* Положение подписи относительно левой части .item */
 }
 
