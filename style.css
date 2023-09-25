@@ -22,7 +22,7 @@ body {
 
 .item {
 	text-align: center;
-	position: relative;
+	position: center;
 }
 
 .btn {
@@ -48,7 +48,7 @@ body {
 
 .caption {
     font-size: 10px;
-    position: absolute;
+    position: center;
     bottom: 1px; /* Положение подписи относительно нижней части .item */
     left: 0; /* Положение подписи относительно левой части .item */
 }
